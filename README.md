@@ -1,4 +1,4 @@
-# Static Error Pages :prohibited:
+# Static Error Pages ⛔
 
 ## Overview :pushpin:
 
